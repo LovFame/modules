@@ -9,8 +9,8 @@ type StreamableWithInstance = {
 	[any]: any,
 }
 
-local Trove = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sleitnick/RbxUtil/ca9ffa0091a90532ea4ffb5c594436c76989fbc8/modules/trove/init.luau"))()
-local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/Sleitnick/RbxUtil/refs/heads/main/modules/signal/init.luau"))()
+local Trove = loadstring(game:HttpGet("https://raw.githubusercontent.com/LovFame/modules/refs/heads/main/trove/init.luau"))()
+local Signal = loadstring(game:HttpGet("https://raw.githubusercontent.com/LovFame/modules/refs/heads/main/modules/signal/init.luau"))()
 
 --[=[
 	@within Streamable
